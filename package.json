@@ -1,0 +1,15 @@
+{
+  "name": "graphql-todos",
+  "version": "1.0.0",
+  "description": "Test GraphQL Todos",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "vgratsilev",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
